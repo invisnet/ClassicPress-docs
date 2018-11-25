@@ -1,0 +1,5 @@
+Will my current plugins and themes work in ClassicPress?
+--------------------------------------------------------
+
+If your current plugins and themes work in WordPress 4.9.x, they will work in ClassicPress too.  If you’re seeing something otherwise, that’s probably a bug with ClassicPress, and we’d appreciate you reporting it on Slack, the support forums, or GitHub.
+

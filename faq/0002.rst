@@ -1,0 +1,6 @@
+===============================================================================================
+I’m a developer, will I need to learn any new language or framework to develop in ClassicPress?
+===============================================================================================
+
+Not unless you want to!  We have some exciting features planned for version 2 and beyond, but they will all be optional and fully backwards-compatible.
+

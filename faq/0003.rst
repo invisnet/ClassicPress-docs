@@ -1,0 +1,10 @@
+==================================================
+I need help with something else, what should I do?
+==================================================
+
+If you have an issue with ClassicPress that you’d like some help resolving, go to our `support forum <https://forums.classicpress.net/c/support>`_ and make a new topic.  Be sure to search existing posts first to make sure your question hasn’t already been answered.
+
+If you just have a question or want to chat with us about something, you can `join our Slack group <https://www.classicpress.net/join-slack/>`_.
+
+Please remember that like all of ClassicPress, our support is a volunteer effort by the community.  If you are able to help answer support questions in the forum, that is also more than welcome!
+
