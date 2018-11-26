@@ -132,4 +132,9 @@ The following plugins have been reported to conflict with the ClassicPress migra
 Updating ClassicPress
 ---------------------
 
-For more information about updating ClassicPress to the latest version, see the `Updating ClassicPress <http://docs.classicpress.net/updating-classicpress/>`_ page.
+.. toctree::
+   :hidden:
+
+   installation/updating
+
+For more information about updating ClassicPress to the latest version, see the :ref:`installation_updating` page.
